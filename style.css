@@ -163,7 +163,11 @@
     display: flex;
     flex-wrap: wrap;
 }
-
+.madewithlove{
+    text-align: center;
+    margin: 40px;
+    font-weight: bolder;
+}
 .categories-section>img {
     width: 120px;
 }
